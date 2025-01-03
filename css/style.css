@@ -73,28 +73,25 @@ a {
   padding: 30px;
   background-color: #eee;
 }
-.contents h3 {
-  padding: 20px 20px 10px 20px;
-}
 .email label {
   display: block;
   color: #333;
   font-size: 14px;
-  margin: 5px 25px;
+  margin-top: 10px;
 }
 #yourEmail {
-  width:100%;
+  width: 100%;
   height: 30px;
   border: 1px solid #bbb;
   border-radius: 3px;
 }
-.firName label{
+.firName label {
   display: block;
   color: #333;
   font-size: 14px;
   margin: 5px 25px;
 }
-#firstName{
+#firstName {
   width: 230px;
   height: 30px;
   margin: 0 25px;
@@ -102,14 +99,14 @@ a {
   border-radius: 3px;
   float: left;
 }
-.lasName label{
+.lasName label {
   display: block;
   color: #333;
   font-size: 14px;
   margin: 5px 25px;
   float: left;
 }
-#lastName{
+#lastName {
   width: 230px;
   height: 30px;
   margin-left: 25px;
